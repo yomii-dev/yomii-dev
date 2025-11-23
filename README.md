@@ -1,16 +1,12 @@
-## Hi there 👋
+### Hello there!
+**I am:**
+- a linux user that enjoys tinkering with stuff
+- a thinkpad owner
+- currently using [CachyOS](https://cachyos.org/) on my main machine
+- using [niri](https://github.com/yalter/niri) as my wayland compositor
+- currently a student
 
-<!--
-**yomii-dev/yomii-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Got any questions? Feel free to contanct me:
+- yomiikawa on [Discord](https://discord.com)
